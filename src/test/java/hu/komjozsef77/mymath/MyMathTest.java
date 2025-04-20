@@ -12,6 +12,6 @@ assertEquals(5, MyMath.myAdd(3, 2));
 
 @Test
 public void testAddNegative() {
-assertEquals(-6, MyMath.myAdd(-3, -2));
+assertEquals(-5, MyMath.myAdd(-3, -2));
 }
 }
